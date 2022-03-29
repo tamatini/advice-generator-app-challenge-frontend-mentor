@@ -20,8 +20,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [here](https://github.com/tamatini/advice-generator-app-challenge-frontend-mentor.git)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/tamatini/advice-generator-app-challenge-frontend-mentor)
+- Live Site URL: [here](https://tamatini.github.io/advice-generator-app-challenge-frontend-mentor/)
 
 ## My process
 
@@ -72,10 +72,10 @@ I then learned how to inject the response as string in my webpage.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Using the fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - This helped me how to fetch data from an API and handle the response.
+- [Request.cache](https://developer.mozilla.org/en-US/docs/Web/API/Request/cache) - Firefox was using the same data i got from the API, as it store it into his cache. I learned that you had to pass the parameter "cache".
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) - I learned with this documentation how to change the value of an element dynamically in javascript with the property innerHTML.
 
 ## Author
 

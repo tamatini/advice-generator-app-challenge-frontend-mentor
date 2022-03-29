@@ -56,7 +56,7 @@ body section {
 }
 
 .separator {
-  content: url('/images/pattern-divider-mobile.svg');
+  content: url('images/pattern-divider-mobile.svg');
   margin-bottom: 4rem;
 }
 
